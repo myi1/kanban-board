@@ -33,7 +33,7 @@ function getSavedColumns() {
     onHoldListArray = JSON.parse(localStorage.onHoldItems);
   } else {
     backlogListArray = [
-      "Build Paint CLone",
+      "Build Paint Clone",
       "Build Splash Page",
       "Build Pong Game",
       "Read Eloquent Javascript",
